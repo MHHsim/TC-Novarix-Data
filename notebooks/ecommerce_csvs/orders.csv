@@ -1,0 +1,301 @@
+order_id,customer_id,status,shipping_address,ordered_at,shipped_at,delivered_at
+1,50,entregado,"Urbanización Baldomero Cabrera 85, Soria, 51512",2025-07-12 08:22:19,2025-07-16 08:22:19,
+2,58,cancelado,"Ronda Fortunata Tamarit 53, Girona, 43329",2024-07-23 13:50:47,2024-07-26 13:50:47,2024-08-05 13:50:47
+3,36,pendiente,"Paseo Mamen Arcos 36, La Coruña, 33465",2025-01-04 23:11:08,2025-01-06 23:11:08,
+4,40,procesando,"Plaza Marc Campo 84 Puerta 8 , Barcelona, 34044",2024-11-05 20:45:17,,
+5,20,enviado,"Via Natalio Cámara 34 Apt. 54 , Cádiz, 41039",2025-04-29 10:06:48,2025-05-02 10:06:48,2025-05-12 10:06:48
+6,76,pendiente,"Avenida de Salvador Bustos 82 Piso 3 , Córdoba, 26137",2024-08-05 06:24:30,,
+7,26,entregado,"Alameda de Marciano Alberdi 45 Apt. 17 , Cáceres, 27569",2024-11-25 20:28:04,,
+8,130,entregado,"Acceso de Encarnacion Giner 82, Lleida, 50003",2025-04-16 07:30:41,2025-04-18 07:30:41,2025-04-21 07:30:41
+9,139,cancelado,"Paseo de Nidia Gil 29 Puerta 7 , Asturias, 37973",2024-11-10 15:58:38,2024-11-13 15:58:38,2024-11-21 15:58:38
+10,135,enviado,"Camino Brunilda Conde 95, Baleares, 45583",2024-08-19 12:35:02,,
+11,10,procesando,"Pasadizo Victor Manuel Baquero 92 Piso 7 , Navarra, 31302",2024-07-16 07:08:04,2024-07-20 07:08:04,2024-07-22 07:08:04
+12,87,cancelado,"Callejón de Olga Acero 29, Las Palmas, 23579",2024-06-10 09:47:07,2024-06-15 09:47:07,2024-06-17 09:47:07
+13,34,cancelado,"Cuesta Amílcar Madrid 32, Huesca, 26066",2024-12-13 12:22:41,2024-12-16 12:22:41,2024-12-24 12:22:41
+14,97,procesando,"Avenida de Isabela Cañas 31 Puerta 6 , Toledo, 15594",2025-02-24 11:30:22,2025-03-01 11:30:22,2025-03-06 11:30:22
+15,40,procesando,"Pasaje de Ignacia Rodrigo 463, Huelva, 11166",2026-03-04 07:36:58,2026-03-07 07:36:58,2026-03-09 07:36:58
+16,42,entregado,"Calle Nydia Rius 403, Badajoz, 39924",2025-08-23 01:54:05,2025-08-27 01:54:05,2025-09-05 01:54:05
+17,47,cancelado,"Urbanización Manu Arregui 47 Puerta 3 , Barcelona, 34023",2025-03-22 21:01:51,2025-03-27 21:01:51,2025-04-04 21:01:51
+18,43,pendiente,"Camino de Elba Montes 34, La Rioja, 20693",2024-11-10 22:31:40,2024-11-11 22:31:40,
+19,113,pendiente,"Ronda Cayetana Valcárcel 6, Zamora, 35371",2026-03-05 04:56:07,2026-03-09 04:56:07,
+20,12,cancelado,"Vial de Marcelo Peñalver 88 Apt. 34 , Zaragoza, 31344",2026-04-02 22:43:38,2026-04-05 22:43:38,
+21,106,procesando,"Paseo de Benita Cañete 53 Apt. 51 , Huesca, 07059",2024-09-03 03:27:06,2024-09-07 03:27:06,
+22,94,enviado,"C. de Ignacia Ariza 4, Lugo, 14689",2026-01-23 22:45:38,2026-01-27 22:45:38,
+23,61,procesando,"Glorieta Goyo Carpio 43 Piso 3 , Vizcaya, 19550",2025-01-11 10:16:49,,
+24,114,procesando,"Cañada de Juan Carlos Palomares 277 Puerta 7 , Castellón, 25294",2026-04-27 08:49:28,,
+25,73,enviado,"Camino Rosario Giralt 50 Puerta 9 , Girona, 10988",2025-07-24 19:18:04,2025-07-27 19:18:04,
+26,115,procesando,"C. Clotilde Hoyos 68 Piso 7 , Lleida, 12025",2025-11-13 05:14:33,,
+27,60,enviado,"Paseo Amaya Espejo 108, Sevilla, 04179",2024-12-30 23:51:47,2024-12-31 23:51:47,2025-01-05 23:51:47
+28,137,cancelado,"Urbanización Borja Corbacho 4 Puerta 7 , Almería, 41490",2024-09-26 13:11:54,,
+29,62,enviado,"Plaza Bernardita Reina 1 Puerta 4 , Albacete, 33913",2025-12-15 20:02:52,,
+30,80,pendiente,"Via Azucena Comas 93, Huelva, 18519",2024-09-02 20:47:32,,
+31,121,enviado,"C. de Ángel Hervia 24, Ávila, 27560",2025-05-24 02:46:38,,
+32,50,procesando,"Calle de Febe Agustí 81 Piso 5 , Melilla, 03788",2025-06-05 21:36:03,2025-06-10 21:36:03,2025-06-19 21:36:03
+33,95,cancelado,"Callejón de Arturo Benavente 18, Guadalajara, 02026",2025-04-29 16:29:56,2025-05-02 16:29:56,
+34,147,enviado,"Avenida de Marcelino Cámara 739, Jaén, 50519",2025-05-24 11:59:21,2025-05-25 11:59:21,2025-05-29 11:59:21
+35,113,procesando,"Calle de Clímaco Ruiz 61, Vizcaya, 22389",2026-03-15 21:35:33,2026-03-16 21:35:33,2026-03-22 21:35:33
+36,119,enviado,"Cuesta de Javier Pagès 366 Puerta 9 , Ávila, 51604",2024-12-27 18:02:45,2024-12-31 18:02:45,2025-01-05 18:02:45
+37,73,cancelado,"Avenida Julio Correa 72, Huesca, 07982",2025-05-23 10:05:18,,
+38,98,cancelado,"Pasaje de Plácido Lerma 3, Cádiz, 29244",2024-05-20 02:28:19,2024-05-22 02:28:19,
+39,129,pendiente,"Plaza Chuy Otero 619 Piso 0 , La Rioja, 26414",2024-07-11 01:04:16,2024-07-16 01:04:16,2024-07-18 01:04:16
+40,136,cancelado,"C. Fortunato Chamorro 54, Burgos, 05146",2025-03-03 13:00:00,2025-03-07 13:00:00,2025-03-10 13:00:00
+41,108,procesando,"Ronda de Marcelino Tomé 6 Piso 3 , Pontevedra, 41414",2025-05-29 16:36:07,2025-06-01 16:36:07,
+42,42,cancelado,"Vial Marco Agudo 75 Piso 7 , Las Palmas, 43666",2025-04-22 05:49:52,2025-04-26 05:49:52,
+43,52,cancelado,"Glorieta de Alejandra Miralles 66 Piso 7 , Guadalajara, 25645",2024-11-05 01:56:29,2024-11-09 01:56:29,2024-11-17 01:56:29
+44,36,procesando,"Via de Cintia Folch 982 Apt. 73 , Zaragoza, 20092",2024-10-16 05:01:01,,
+45,65,procesando,"Vial de Evita Mateo 34 Puerta 6 , Asturias, 30430",2025-07-29 04:45:24,2025-08-01 04:45:24,2025-08-11 04:45:24
+46,14,cancelado,"Paseo de Angelino Palomares 291 Apt. 52 , Ourense, 43272",2025-01-31 04:52:32,2025-02-04 04:52:32,2025-02-10 04:52:32
+47,124,cancelado,"Via de Agustín Cabello 93 Puerta 8 , León, 25518",2024-06-08 21:29:16,2024-06-10 21:29:16,2024-06-13 21:29:16
+48,96,enviado,"Acceso Amador Tolosa 5 Piso 1 , Toledo, 10284",2024-06-10 08:34:33,2024-06-14 08:34:33,
+49,142,cancelado,"Pasaje de Milagros Gabaldón 875 Apt. 77 , Asturias, 20678",2024-12-06 15:17:48,2024-12-11 15:17:48,2024-12-18 15:17:48
+50,27,pendiente,"Alameda Flora Canales 93, Navarra, 11494",2025-05-21 11:55:51,,
+51,133,pendiente,"Urbanización de Nayara Quirós 72 Piso 0 , León, 39810",2025-08-09 04:59:29,2025-08-11 04:59:29,2025-08-18 04:59:29
+52,32,pendiente,"Glorieta Hernán Lopez 2 Puerta 2 , Guadalajara, 13915",2026-03-18 10:26:03,2026-03-21 10:26:03,
+53,73,pendiente,"Cuesta de Belén Millán 769, Huelva, 24067",2026-02-15 18:17:26,2026-02-18 18:17:26,2026-02-28 18:17:26
+54,22,cancelado,"Camino de Cesar Cañete 41, Baleares, 12996",2025-09-22 06:43:31,2025-09-23 06:43:31,
+55,42,enviado,"Ronda de Débora Cervera 366, Santa Cruz de Tenerife, 36217",2025-10-06 11:07:37,2025-10-11 11:07:37,2025-10-20 11:07:37
+56,70,procesando,"Cañada de Enrique Exposito 17, Álava, 32759",2025-05-02 14:48:33,2025-05-06 14:48:33,2025-05-08 14:48:33
+57,116,cancelado,"Paseo de Anselma Uría 77, Madrid, 11961",2024-12-10 01:10:13,,
+58,132,entregado,"Cañada Anacleto Llobet 58, Vizcaya, 30971",2025-06-22 23:04:30,2025-06-24 23:04:30,2025-07-01 23:04:30
+59,38,cancelado,"Callejón Matilde Pedraza 907, Las Palmas, 07711",2024-05-08 10:52:20,2024-05-13 10:52:20,2024-05-23 10:52:20
+60,112,pendiente,"Pasaje Juan José Olivé 8 Apt. 33 , Teruel, 40994",2026-02-19 02:52:19,2026-02-23 02:52:19,
+61,24,entregado,"Glorieta Odalys Gabaldón 6, Pontevedra, 36308",2024-07-24 14:19:31,2024-07-25 14:19:31,2024-08-01 14:19:31
+62,57,cancelado,"Cañada de Constanza Lastra 712 Apt. 42 , Ciudad, 10584",2025-04-01 19:30:37,,
+63,116,enviado,"Cuesta de Erasmo Leiva 86, Santa Cruz de Tenerife, 51389",2024-08-14 03:09:45,2024-08-16 03:09:45,
+64,90,enviado,"Acceso de Wálter Torrents 19 Puerta 1 , Santa Cruz de Tenerife, 44525",2026-03-18 12:36:05,2026-03-21 12:36:05,2026-03-31 12:36:05
+65,7,entregado,"Glorieta de Timoteo Galán 64, Guipúzcoa, 36868",2024-11-23 12:33:59,2024-11-24 12:33:59,2024-11-30 12:33:59
+66,107,procesando,"Calle de Arturo Cabezas 20 Apt. 77 , Las Palmas, 14259",2025-11-18 04:10:03,2025-11-20 04:10:03,2025-11-30 04:10:03
+67,14,entregado,"Callejón Ciro Palomo 61 Puerta 2 , La Coruña, 41999",2025-02-10 05:01:25,,
+68,102,enviado,"Avenida de Juliana Bustamante 4, Asturias, 09696",2025-12-16 09:45:23,,
+69,129,entregado,"Plaza Josefa Nuñez 7 Puerta 2 , Asturias, 16004",2025-03-11 07:38:06,,
+70,96,pendiente,"Via Matías Pedrero 72, Segovia, 45376",2025-02-10 08:00:04,2025-02-12 08:00:04,2025-02-21 08:00:04
+71,61,pendiente,"Rambla Valerio Ortega 72, Castellón, 06681",2024-06-06 05:48:49,,
+72,99,procesando,"Camino Luna Plana 66, Ciudad, 19151",2025-03-09 05:49:01,,
+73,21,entregado,"Plaza de Regina Mata 98, Valencia, 26673",2024-06-10 20:04:58,2024-06-14 20:04:58,2024-06-18 20:04:58
+74,96,entregado,"Cuesta Rolando Capdevila 27, Huesca, 21740",2025-07-19 01:15:17,2025-07-22 01:15:17,2025-07-31 01:15:17
+75,58,entregado,"Acceso de Carina Duque 11 Puerta 1 , Córdoba, 15138",2025-07-12 11:27:35,,
+76,8,entregado,"Pasadizo de Luciano Vallejo 76, Santa Cruz de Tenerife, 36164",2024-09-30 07:04:20,,
+77,82,procesando,"Cañada Cayetano Vidal 92 Piso 6 , Granada, 46788",2025-02-07 16:22:02,2025-02-12 16:22:02,2025-02-14 16:22:02
+78,26,enviado,"Urbanización Chema Rovira 8, Granada, 44652",2025-07-05 19:15:26,,
+79,86,cancelado,"Vial Judith Alberdi 67, Cáceres, 25370",2024-12-12 06:21:36,2024-12-15 06:21:36,
+80,38,procesando,"Plaza Nico Román 28 Piso 9 , Madrid, 30831",2024-06-28 05:09:56,2024-07-03 05:09:56,2024-07-08 05:09:56
+81,36,enviado,"Camino de Flavio Pedro 24, Ceuta, 49547",2025-02-26 04:29:54,2025-03-02 04:29:54,2025-03-11 04:29:54
+82,10,enviado,"Urbanización Arturo Suarez 36, Alicante, 37232",2025-05-28 18:26:19,2025-06-02 18:26:19,2025-06-08 18:26:19
+83,74,enviado,"Urbanización de Sigfrido Montero 61, Málaga, 45127",2025-04-16 21:38:54,2025-04-17 21:38:54,2025-04-20 21:38:54
+84,121,entregado,"Pasadizo Arturo Quero 8, Vizcaya, 21361",2025-12-16 19:57:35,2025-12-18 19:57:35,2025-12-24 19:57:35
+85,36,procesando,"Plaza de Rafa Fonseca 59, Lleida, 25135",2025-07-03 04:30:48,2025-07-05 04:30:48,
+86,121,enviado,"Vial Adolfo Redondo 4, Santa Cruz de Tenerife, 46446",2024-12-05 08:48:20,2024-12-07 08:48:20,
+87,115,cancelado,"C. Reina Meléndez 4 Puerta 3 , Madrid, 04925",2026-02-02 03:21:08,2026-02-07 03:21:08,2026-02-09 03:21:08
+88,2,cancelado,"Calle África Guardiola 865 Puerta 1 , Málaga, 09749",2025-08-29 04:29:58,2025-09-01 04:29:58,2025-09-10 04:29:58
+89,21,pendiente,"Ronda Gloria Castrillo 54, Zaragoza, 26752",2025-10-12 13:59:03,,
+90,5,enviado,"Callejón de Joaquín Benavente 22 Apt. 12 , Lleida, 21580",2025-08-19 17:06:15,2025-08-22 17:06:15,2025-08-27 17:06:15
+91,66,procesando,"Glorieta de Vito Mendez 24, Cáceres, 45961",2024-08-02 09:13:56,2024-08-07 09:13:56,
+92,56,entregado,"Alameda Eusebio Bou 75, Soria, 20584",2024-08-10 00:53:37,,
+93,39,pendiente,"C. Rita Santamaria 283, Badajoz, 10161",2024-07-16 04:42:28,2024-07-18 04:42:28,
+94,141,enviado,"Urbanización Eladio Figuerola 25, Asturias, 02428",2025-03-04 01:19:54,,
+95,136,entregado,"Vial de Cirino Mármol 1, Almería, 12009",2025-02-15 23:21:20,2025-02-20 23:21:20,2025-03-01 23:21:20
+96,109,procesando,"Plaza de Roberto Roldan 45 Apt. 44 , Burgos, 03270",2026-01-09 12:23:33,,
+97,29,procesando,"Ronda de Sofía Tello 2 Piso 6 , La Rioja, 14071",2025-01-20 11:26:33,2025-01-24 11:26:33,2025-02-03 11:26:33
+98,74,pendiente,"Acceso de Alexandra Tormo 99, Jaén, 18723",2025-07-09 09:10:24,2025-07-13 09:10:24,
+99,61,pendiente,"Urbanización de Amor Lucas 8, Vizcaya, 39272",2026-05-01 09:42:15,,
+100,78,enviado,"Urbanización Gala Hernando 18, Ourense, 26455",2025-02-10 01:49:52,2025-02-13 01:49:52,2025-02-15 01:49:52
+101,32,entregado,"Urbanización Dora Monreal 19, Ourense, 37936",2025-12-09 12:00:19,,
+102,13,cancelado,"Paseo de Martin Echevarría 20, Ceuta, 40430",2024-08-22 03:46:22,2024-08-27 03:46:22,2024-08-29 03:46:22
+103,62,entregado,"Plaza de Natanael Fortuny 35, Almería, 02436",2024-10-03 17:08:32,2024-10-06 17:08:32,2024-10-10 17:08:32
+104,108,procesando,"Pasadizo Rosalinda Patiño 6, Palencia, 07621",2025-08-13 01:09:28,2025-08-17 01:09:28,2025-08-21 01:09:28
+105,118,procesando,"Vial de Fausto Rueda 35 Puerta 8 , Ceuta, 44616",2025-06-01 13:09:57,2025-06-05 13:09:57,2025-06-14 13:09:57
+106,17,enviado,"Cañada de Edu Elías 7 Puerta 0 , Pontevedra, 21854",2025-03-09 20:49:55,2025-03-13 20:49:55,2025-03-20 20:49:55
+107,29,cancelado,"Vial de Natanael Bermejo 65, Santa Cruz de Tenerife, 06814",2025-05-25 12:33:44,2025-05-26 12:33:44,2025-06-02 12:33:44
+108,128,enviado,"Callejón Hugo Iborra 6 Piso 1 , Almería, 26292",2024-06-02 08:50:25,2024-06-06 08:50:25,
+109,138,procesando,"Ronda América Pinedo 78 Apt. 79 , Cáceres, 30575",2024-06-06 06:57:00,2024-06-11 06:57:00,
+110,5,procesando,"Plaza de Melchor Julián 2, Cáceres, 25606",2024-06-01 07:50:36,,
+111,132,entregado,"Alameda Dorotea Tolosa 7, Pontevedra, 29455",2024-08-16 12:58:39,2024-08-17 12:58:39,2024-08-25 12:58:39
+112,148,cancelado,"Alameda Hernán Falcón 98, Sevilla, 19449",2025-11-07 08:45:02,2025-11-08 08:45:02,2025-11-18 08:45:02
+113,62,entregado,"Calle Rubén Tudela 60, Las Palmas, 06742",2025-01-15 18:45:47,2025-01-16 18:45:47,
+114,37,entregado,"Via Amancio Gabaldón 24 Piso 1 , Zamora, 27048",2026-01-16 13:26:39,2026-01-20 13:26:39,2026-01-22 13:26:39
+115,75,enviado,"Avenida de Felisa Ponce 75 Piso 2 , Alicante, 18255",2025-05-05 01:39:55,2025-05-10 01:39:55,
+116,110,entregado,"Urbanización de Pilar Leiva 202 Apt. 58 , Valladolid, 39648",2025-06-09 11:29:52,2025-06-13 11:29:52,
+117,1,pendiente,"Pasadizo de Silvio Taboada 537, La Coruña, 47812",2025-04-22 01:19:07,2025-04-27 01:19:07,2025-05-01 01:19:07
+118,91,pendiente,"Pasaje Fulgencio Diego 33, Las Palmas, 06135",2024-08-25 18:53:22,2024-08-26 18:53:22,2024-08-29 18:53:22
+119,62,entregado,"Callejón Miguel Bautista 7, Navarra, 22373",2025-08-15 23:56:58,2025-08-16 23:56:58,2025-08-19 23:56:58
+120,147,cancelado,"Camino Azeneth Rivas 7 Apt. 29 , Badajoz, 37876",2026-03-26 19:36:57,2026-03-28 19:36:57,2026-04-03 19:36:57
+121,107,entregado,"Ronda de Juan Luis Piñol 89 Apt. 24 , Burgos, 41517",2025-06-06 12:09:28,2025-06-09 12:09:28,2025-06-18 12:09:28
+122,48,procesando,"Alameda de Jessica Gámez 8, Huesca, 02325",2024-08-18 16:08:27,2024-08-20 16:08:27,2024-08-24 16:08:27
+123,22,procesando,"Callejón de Pía Tur 4 Apt. 47 , Cuenca, 48762",2025-01-11 20:09:39,2025-01-16 20:09:39,2025-01-20 20:09:39
+124,135,cancelado,"Pasaje Héctor Ramírez 68, Málaga, 11418",2026-04-25 12:24:21,2026-04-28 12:24:21,2026-05-06 12:24:21
+125,93,enviado,"Vial de Mercedes Zamora 402 Apt. 03 , Lleida, 04313",2025-08-21 06:51:09,2025-08-26 06:51:09,
+126,18,pendiente,"Acceso de Palmira Simó 161, Huesca, 33033",2025-01-04 12:15:52,,
+127,135,pendiente,"Camino de Carmen Olmo 52, Girona, 02798",2024-09-05 07:41:31,2024-09-10 07:41:31,2024-09-19 07:41:31
+128,140,enviado,"Camino Melisa Gargallo 43, Segovia, 27837",2025-03-03 07:38:19,2025-03-07 07:38:19,2025-03-14 07:38:19
+129,130,entregado,"Vial de Flor Duran 503, Teruel, 47489",2025-08-23 22:50:11,2025-08-28 22:50:11,2025-09-04 22:50:11
+130,130,cancelado,"Acceso de Ángel Iniesta 57 Puerta 8 , Palencia, 07705",2025-11-27 08:20:46,2025-11-29 08:20:46,2025-12-04 08:20:46
+131,142,entregado,"Cañada de Isaura Campoy 61 Piso 5 , Córdoba, 43999",2026-02-15 13:40:22,2026-02-19 13:40:22,
+132,6,enviado,"Pasadizo María Del Carmen Hernandez 7, Soria, 10170",2024-12-20 12:34:00,2024-12-24 12:34:00,2024-12-28 12:34:00
+133,100,cancelado,"Callejón de Victoria Riquelme 16 Puerta 9 , Guipúzcoa, 48615",2025-08-06 06:15:51,2025-08-07 06:15:51,
+134,121,pendiente,"Pasadizo de Marcelo Domínguez 224 Piso 2 , Toledo, 37636",2025-01-18 08:53:24,2025-01-21 08:53:24,2025-01-30 08:53:24
+135,12,pendiente,"Urbanización Pedro Godoy 66 Piso 4 , Lleida, 08718",2025-05-31 03:28:16,,
+136,100,entregado,"Cuesta Tamara Ferreras 916, La Rioja, 04543",2026-02-04 10:52:03,2026-02-05 10:52:03,2026-02-13 10:52:03
+137,96,procesando,"Alameda Sebastián Seco 35, Madrid, 22799",2025-06-02 00:11:38,2025-06-04 00:11:38,
+138,65,enviado,"Plaza Vito Llanos 32 Piso 1 , Salamanca, 29423",2025-06-19 13:58:05,2025-06-22 13:58:05,2025-06-30 13:58:05
+139,5,enviado,"Cuesta de Rodolfo Acuña 9 Apt. 50 , Valladolid, 35801",2025-05-17 13:50:16,2025-05-20 13:50:16,2025-05-30 13:50:16
+140,92,entregado,"Urbanización Jaime Ocaña 22, Málaga, 39579",2025-11-03 14:18:07,2025-11-06 14:18:07,2025-11-15 14:18:07
+141,18,enviado,"Calle Marc Manso 98, Las Palmas, 46008",2025-07-13 08:06:11,2025-07-14 08:06:11,2025-07-19 08:06:11
+142,89,pendiente,"Acceso de Maricela Fabra 16 Apt. 32 , Toledo, 02436",2024-12-20 22:56:08,2024-12-23 22:56:08,2024-12-26 22:56:08
+143,62,entregado,"Calle de Remigio Jaume 190, Segovia, 02293",2025-05-05 23:04:26,2025-05-06 23:04:26,2025-05-09 23:04:26
+144,27,pendiente,"Pasaje de Ricardo Casals 347, Tarragona, 45940",2026-01-25 17:05:41,2026-01-28 17:05:41,2026-01-30 17:05:41
+145,149,cancelado,"Via de Gloria Viña 39 Piso 1 , Girona, 08471",2024-05-15 00:34:11,2024-05-16 00:34:11,
+146,86,cancelado,"Glorieta Mayte Jódar 735 Piso 2 , Navarra, 33529",2025-02-12 05:07:18,2025-02-14 05:07:18,
+147,35,procesando,"Urbanización de Abilio Alberto 2 Puerta 7 , Ávila, 52087",2025-01-14 09:11:16,2025-01-16 09:11:16,
+148,12,enviado,"Urbanización de Yago Marti 17, Cádiz, 03585",2025-10-07 11:05:45,,
+149,91,cancelado,"Ronda de Mamen Carmona 1 Apt. 22 , Huelva, 29686",2024-07-26 05:36:43,2024-07-31 05:36:43,2024-08-09 05:36:43
+150,140,enviado,"Alameda de Gervasio Carbonell 86, Jaén, 46213",2025-03-21 15:18:28,2025-03-23 15:18:28,
+151,87,pendiente,"Via Eligio Barral 71 Puerta 7 , Cádiz, 41063",2025-07-29 11:25:51,2025-08-02 11:25:51,
+152,45,entregado,"Vial Almudena Torrents 7 Piso 0 , Córdoba, 43924",2024-12-27 01:57:53,,
+153,119,cancelado,"Alameda Aurelia Zabala 416, Huelva, 44496",2026-01-10 23:01:14,2026-01-13 23:01:14,2026-01-17 23:01:14
+154,123,entregado,"Plaza Fernanda Crespo 377, Valladolid, 33220",2026-03-31 04:40:03,,
+155,47,cancelado,"Callejón de Aureliano Vendrell 78, Ciudad, 06166",2025-11-16 11:27:27,2025-11-21 11:27:27,
+156,35,enviado,"Avenida de Rocío Valentín 25 Piso 0 , La Coruña, 28023",2026-03-10 11:32:24,2026-03-13 11:32:24,2026-03-19 11:32:24
+157,17,cancelado,"Cañada Tania Verdugo 637, Almería, 15609",2025-10-18 12:29:51,,
+158,118,cancelado,"Acceso de Lilia Santamaria 2 Puerta 3 , Guipúzcoa, 24274",2025-09-02 20:42:00,2025-09-06 20:42:00,
+159,10,pendiente,"Calle Teófila Córdoba 72 Apt. 49 , Cantabria, 08913",2024-05-22 19:10:24,2024-05-25 19:10:24,2024-05-31 19:10:24
+160,76,procesando,"Glorieta de Lilia Neira 7, Santa Cruz de Tenerife, 45049",2025-08-08 17:38:10,,
+161,52,pendiente,"Camino de Anna Cañizares 90 Puerta 0 , Palencia, 32649",2025-05-05 17:26:14,2025-05-09 17:26:14,
+162,12,entregado,"Via Roldán Montserrat 466, La Coruña, 23469",2024-11-24 08:16:49,2024-11-25 08:16:49,2024-12-04 08:16:49
+163,52,enviado,"Vial Seve Vila 68 Puerta 8 , Cantabria, 14743",2025-09-23 07:32:09,2025-09-26 07:32:09,2025-10-01 07:32:09
+164,11,enviado,"Rambla Anita Mora 6 Puerta 7 , Soria, 50012",2025-12-31 04:49:21,2026-01-03 04:49:21,
+165,81,cancelado,"Pasadizo Custodio Amaya 12 Puerta 0 , Cuenca, 50164",2025-12-25 23:08:35,,
+166,80,enviado,"Vial de Primitiva Barrios 93 Apt. 57 , Salamanca, 45271",2025-07-25 09:58:39,2025-07-27 09:58:39,2025-07-29 09:58:39
+167,132,procesando,"Pasadizo Milagros Maestre 7 Piso 6 , Navarra, 04525",2025-07-24 18:19:12,2025-07-28 18:19:12,
+168,102,procesando,"Pasaje Paula Gomis 99 Puerta 9 , Vizcaya, 48507",2024-10-25 20:08:51,2024-10-27 20:08:51,
+169,140,cancelado,"Rambla de Isabela Benavente 92 Apt. 60 , Cuenca, 37477",2025-11-13 10:18:26,2025-11-17 10:18:26,
+170,122,cancelado,"Camino Raquel Jara 6, Teruel, 11145",2024-06-10 23:45:50,,
+171,65,entregado,"Calle de María Ángeles Mascaró 99, Asturias, 47378",2025-07-29 08:05:48,2025-08-01 08:05:48,2025-08-07 08:05:48
+172,10,cancelado,"Pasadizo Borja Vazquez 96, Ávila, 23898",2025-05-10 06:38:56,2025-05-13 06:38:56,2025-05-22 06:38:56
+173,49,pendiente,"Alameda de Poncio Marin 99, Navarra, 50291",2024-09-11 13:00:34,2024-09-14 13:00:34,2024-09-21 13:00:34
+174,74,pendiente,"Pasaje de Jose Angel Hervás 6, Zamora, 08430",2025-06-13 06:50:00,2025-06-17 06:50:00,2025-06-21 06:50:00
+175,92,pendiente,"Plaza de Viviana Villanueva 98 Piso 7 , Girona, 43698",2025-09-02 16:18:53,2025-09-04 16:18:53,2025-09-12 16:18:53
+176,13,procesando,"Via Florencio Aguilera 4 Puerta 3 , Badajoz, 14472",2025-11-13 06:15:24,2025-11-18 06:15:24,2025-11-26 06:15:24
+177,85,enviado,"Plaza Ángel Mármol 2, Almería, 12664",2025-08-26 11:08:49,,
+178,70,entregado,"Callejón Saturnino Pons 76, Albacete, 26526",2025-12-24 18:08:21,2025-12-28 18:08:21,2026-01-03 18:08:21
+179,32,cancelado,"Camino Artemio Belmonte 28, Zamora, 45949",2026-02-14 10:55:34,2026-02-17 10:55:34,
+180,95,entregado,"Pasaje de Rico Prats 8, Murcia, 15409",2025-02-21 09:41:45,2025-02-22 09:41:45,2025-03-04 09:41:45
+181,112,procesando,"Vial de Marc Perea 9 Puerta 2 , Alicante, 01329",2024-08-24 21:10:23,2024-08-29 21:10:23,
+182,103,cancelado,"Glorieta de Marianela Núñez 96, Cáceres, 13058",2026-01-30 07:18:39,,
+183,113,cancelado,"Via Gerardo Ballester 278 Piso 1 , Badajoz, 13937",2025-10-12 20:06:12,2025-10-15 20:06:12,2025-10-18 20:06:12
+184,99,procesando,"Vial de Hilda Guitart 5 Puerta 1 , Guadalajara, 32841",2024-11-06 05:18:20,,
+185,87,enviado,"Camino de Ezequiel Pastor 36 Apt. 53 , Teruel, 49484",2024-05-26 14:57:05,2024-05-29 14:57:05,2024-06-01 14:57:05
+186,48,cancelado,"Vial de Iris Mármol 87 Piso 4 , Navarra, 08132",2025-07-20 19:55:04,,
+187,128,enviado,"Vial de Tatiana Ferrándiz 21, Málaga, 42394",2025-10-28 05:05:26,2025-10-30 05:05:26,2025-11-06 05:05:26
+188,128,procesando,"Calle Carmen Juliá 387 Piso 6 , Vizcaya, 39640",2024-07-26 11:02:07,2024-07-31 11:02:07,2024-08-04 11:02:07
+189,95,entregado,"Pasadizo de Arcelia Botella 95, Sevilla, 16655",2024-09-27 06:54:43,2024-09-28 06:54:43,2024-10-06 06:54:43
+190,133,cancelado,"Rambla de Gastón Coll 15, Valladolid, 32958",2024-05-16 19:27:09,2024-05-19 19:27:09,
+191,69,enviado,"Acceso de Joaquín Arnau 68, Lugo, 30795",2025-04-09 15:59:21,2025-04-13 15:59:21,2025-04-18 15:59:21
+192,22,cancelado,"Via de Juliana Vázquez 94, Jaén, 43839",2024-12-31 18:05:10,2025-01-01 18:05:10,2025-01-08 18:05:10
+193,109,enviado,"Pasadizo José Peñalver 78 Piso 5 , Zamora, 32595",2025-03-23 09:03:54,2025-03-26 09:03:54,
+194,21,cancelado,"Rambla de Jeremías Benítez 343, Cáceres, 24738",2024-08-27 17:19:03,2024-08-28 17:19:03,2024-09-06 17:19:03
+195,111,cancelado,"Alameda de Lola Carballo 87, Palencia, 11567",2025-03-18 20:34:07,,
+196,47,cancelado,"Calle Edu Cuevas 18, Almería, 11901",2025-10-20 10:17:32,2025-10-25 10:17:32,2025-10-27 10:17:32
+197,140,entregado,"Camino de Febe Alfonso 41, Pontevedra, 31894",2024-10-07 11:15:03,2024-10-09 11:15:03,2024-10-14 11:15:03
+198,76,cancelado,"Ronda Eliana Clavero 929, Cáceres, 48460",2025-03-16 20:25:25,,
+199,83,enviado,"Urbanización Reyes Pol 11 Apt. 88 , Burgos, 40682",2025-05-26 21:01:40,2025-05-28 21:01:40,2025-06-02 21:01:40
+200,27,entregado,"Calle de Saturnina Vaquero 2, Sevilla, 09541",2025-12-25 00:57:54,2025-12-27 00:57:54,2025-12-29 00:57:54
+201,21,pendiente,"Acceso de Sandra Aroca 863 Piso 5 , Las Palmas, 09774",2025-08-20 01:12:41,2025-08-22 01:12:41,2025-09-01 01:12:41
+202,84,enviado,"Avenida Loreto Real 13 Puerta 0 , Melilla, 01471",2026-04-17 02:11:19,2026-04-19 02:11:19,
+203,76,enviado,"Ronda de Porfirio Campillo 56, Murcia, 28758",2025-05-03 09:47:50,2025-05-05 09:47:50,
+204,79,pendiente,"Glorieta de Severiano Tolosa 95 Puerta 7 , Granada, 38856",2026-03-11 00:56:08,2026-03-13 00:56:08,2026-03-15 00:56:08
+205,115,entregado,"Via Mariana Gras 22 Apt. 86 , Zaragoza, 37082",2026-02-20 01:19:40,,
+206,110,cancelado,"Plaza de Nilda Bou 77, Asturias, 18241",2025-11-24 15:26:07,,
+207,43,enviado,"Calle Lourdes Planas 99 Piso 9 , Vizcaya, 12486",2025-11-18 02:11:32,2025-11-23 02:11:32,
+208,114,pendiente,"Glorieta Remedios Villegas 13 Puerta 8 , Salamanca, 12107",2024-06-19 11:26:30,,
+209,90,cancelado,"Plaza Fausto Bolaños 66 Puerta 6 , Palencia, 14127",2025-11-01 07:02:18,2025-11-04 07:02:18,2025-11-07 07:02:18
+210,115,entregado,"Paseo Lucas Oliveras 44, Lleida, 27473",2024-08-17 08:28:42,2024-08-19 08:28:42,2024-08-21 08:28:42
+211,11,enviado,"Ronda Antonia Campillo 518 Piso 1 , Murcia, 38676",2025-06-08 23:23:25,2025-06-13 23:23:25,2025-06-15 23:23:25
+212,91,cancelado,"Camino de Alondra Hervia 87 Puerta 0 , Baleares, 17896",2024-10-10 03:33:50,,
+213,112,cancelado,"Urbanización Nereida Moles 95 Puerta 0 , Ciudad, 19827",2025-07-11 18:07:18,2025-07-15 18:07:18,2025-07-18 18:07:18
+214,71,procesando,"Avenida de Casandra Escalona 65 Apt. 94 , Valencia, 45768",2025-01-09 13:47:48,2025-01-13 13:47:48,
+215,15,pendiente,"Urbanización Magdalena Herranz 43 Apt. 39 , Burgos, 52048",2025-09-28 11:14:12,,
+216,20,cancelado,"Cuesta Encarna Agudo 607, Madrid, 38651",2025-05-08 15:54:57,2025-05-09 15:54:57,
+217,104,entregado,"Pasadizo Lino Puga 39 Apt. 86 , Murcia, 03134",2025-06-14 06:02:18,2025-06-19 06:02:18,2025-06-26 06:02:18
+218,94,procesando,"Pasaje Dionisio Villegas 15 Apt. 36 , Guadalajara, 24697",2025-02-18 18:57:26,2025-02-23 18:57:26,2025-03-04 18:57:26
+219,132,cancelado,"Urbanización de Julio César Soto 355, Las Palmas, 14797",2024-12-31 19:12:24,2025-01-04 19:12:24,
+220,41,cancelado,"C. de Lino Sanmartín 39 Puerta 3 , Toledo, 18691",2024-09-13 14:47:19,2024-09-18 14:47:19,2024-09-23 14:47:19
+221,8,entregado,"Glorieta de Esteban Conde 30 Piso 7 , Santa Cruz de Tenerife, 34882",2025-04-24 03:11:01,2025-04-26 03:11:01,2025-05-05 03:11:01
+222,37,procesando,"Callejón de Chita Asenjo 31 Apt. 34 , Santa Cruz de Tenerife, 07311",2026-04-10 13:39:40,2026-04-11 13:39:40,2026-04-18 13:39:40
+223,113,procesando,"Acceso de Plácido Jiménez 70 Apt. 59 , Ourense, 38741",2025-06-20 04:38:35,2025-06-23 04:38:35,2025-07-02 04:38:35
+224,9,pendiente,"Alameda de Ignacia Vicens 27 Piso 9 , Lleida, 42399",2025-01-22 23:52:21,,
+225,33,cancelado,"Ronda de Evangelina Quiroga 2, Guipúzcoa, 15956",2025-06-30 09:42:19,2025-07-01 09:42:19,2025-07-08 09:42:19
+226,18,pendiente,"Callejón de Elodia Prats 67 Puerta 9 , La Rioja, 11965",2025-02-01 06:49:21,2025-02-06 06:49:21,
+227,61,procesando,"Urbanización Gisela Infante 4, La Coruña, 07750",2025-10-09 01:32:16,2025-10-14 01:32:16,2025-10-17 01:32:16
+228,94,pendiente,"Paseo de Baltasar Amo 28, Córdoba, 41507",2025-12-22 17:22:01,2025-12-26 17:22:01,2025-12-28 17:22:01
+229,93,entregado,"Cañada de Jenaro Huertas 37, Melilla, 12180",2026-03-07 00:41:05,2026-03-12 00:41:05,2026-03-15 00:41:05
+230,99,enviado,"Alameda de Rosario Tamayo 58, Barcelona, 46719",2025-11-13 01:26:32,2025-11-15 01:26:32,
+231,146,entregado,"Pasadizo de Felicidad Menendez 97 Apt. 17 , Huesca, 28014",2025-10-12 20:27:27,2025-10-13 20:27:27,2025-10-23 20:27:27
+232,9,procesando,"Plaza de Aarón Zabala 55, Murcia, 01545",2025-09-13 18:35:06,2025-09-16 18:35:06,2025-09-24 18:35:06
+233,40,entregado,"Plaza de María Dolores Ros 49 Apt. 85 , La Rioja, 37736",2026-01-16 07:36:12,2026-01-21 07:36:12,2026-01-31 07:36:12
+234,116,procesando,"Rambla Ligia Porta 53 Apt. 63 , Girona, 43497",2025-10-22 14:43:52,,
+235,95,entregado,"Avenida Germán Cerezo 81 Puerta 7 , Tarragona, 41812",2024-11-23 10:30:09,2024-11-26 10:30:09,
+236,96,cancelado,"Plaza de Evaristo Ayala 202, Cuenca, 09194",2025-08-18 23:05:10,2025-08-21 23:05:10,2025-08-28 23:05:10
+237,114,cancelado,"Avenida Eutropio Alcolea 63, Granada, 33662",2025-05-13 04:12:20,,
+238,20,entregado,"Alameda Cecilio Coll 5 Piso 1 , Cádiz, 13595",2024-09-28 10:29:53,2024-10-03 10:29:53,2024-10-06 10:29:53
+239,147,pendiente,"Via María Jesús Ibarra 47 Puerta 0 , Lleida, 49190",2024-11-09 13:53:03,,
+240,36,procesando,"C. de Isa Miguel 12, Córdoba, 32537",2024-12-04 19:29:26,2024-12-05 19:29:26,
+241,136,cancelado,"Calle de Rosario Gibert 4, Guadalajara, 01987",2025-07-09 13:55:25,2025-07-13 13:55:25,2025-07-20 13:55:25
+242,94,procesando,"C. Montserrat Herrero 1 Puerta 7 , Huesca, 51514",2024-12-19 22:51:43,,
+243,102,cancelado,"Cuesta Ciriaco Nevado 1, Segovia, 11087",2024-10-23 18:15:35,2024-10-26 18:15:35,2024-10-29 18:15:35
+244,81,enviado,"Urbanización de Maximiliano Olivera 13, Huelva, 48474",2024-12-19 06:22:19,2024-12-21 06:22:19,
+245,72,entregado,"Cuesta Lara Río 848 Apt. 92 , Guadalajara, 48998",2025-12-22 02:09:53,2025-12-23 02:09:53,
+246,64,cancelado,"Avenida Bernarda Cortina 54 Puerta 5 , Álava, 51850",2024-12-12 13:51:43,2024-12-16 13:51:43,2024-12-24 13:51:43
+247,30,entregado,"Acceso Maura Haro 91, Cantabria, 35345",2025-10-31 14:44:25,2025-11-05 14:44:25,
+248,7,enviado,"Alameda de Sebastián Montserrat 2, Alicante, 09504",2024-10-10 02:22:21,2024-10-13 02:22:21,2024-10-22 02:22:21
+249,48,procesando,"Via Amalia Feliu 1, Sevilla, 33106",2025-10-20 05:26:20,2025-10-23 05:26:20,
+250,128,entregado,"Urbanización de Eloísa Belda 4, Ávila, 31674",2025-10-31 16:22:05,2025-11-05 16:22:05,
+251,133,cancelado,"Acceso de Narcisa Barragán 148 Puerta 1 , Asturias, 15149",2025-05-16 22:06:45,2025-05-18 22:06:45,2025-05-24 22:06:45
+252,100,enviado,"Paseo Rogelio Falcó 48, Navarra, 50099",2025-01-03 08:30:08,2025-01-04 08:30:08,
+253,144,cancelado,"Pasaje de Julia Roldán 3, Navarra, 27316",2025-05-09 18:37:06,2025-05-11 18:37:06,
+254,31,enviado,"Acceso de Vanesa Miró 755, Toledo, 22197",2025-01-28 00:35:48,2025-01-30 00:35:48,2025-02-06 00:35:48
+255,68,enviado,"Paseo de Ángeles Izquierdo 87, Álava, 48599",2025-07-11 10:40:49,,
+256,67,cancelado,"Pasadizo Elpidio Matas 5 Apt. 35 , Vizcaya, 46201",2026-04-27 07:52:15,2026-04-28 07:52:15,2026-05-07 07:52:15
+257,115,entregado,"Calle Édgar Pagès 52, Palencia, 17374",2026-04-27 22:30:16,2026-04-30 22:30:16,2026-05-08 22:30:16
+258,55,procesando,"Avenida de Concepción Pulido 631 Piso 2 , Tarragona, 47061",2026-01-09 21:51:53,2026-01-13 21:51:53,
+259,74,procesando,"Camino Rico Bermudez 6 Piso 6 , Baleares, 51488",2025-11-13 15:14:00,2025-11-16 15:14:00,
+260,126,enviado,"Calle de Marcos Zamora 6, Guadalajara, 33925",2024-11-30 12:03:08,2024-12-04 12:03:08,2024-12-11 12:03:08
+261,52,cancelado,"C. Victor Manuel Vargas 4, Girona, 26842",2024-12-11 15:13:02,,
+262,32,enviado,"Avenida de Alba Avilés 264, Málaga, 29474",2024-08-04 18:19:56,2024-08-06 18:19:56,2024-08-14 18:19:56
+263,35,procesando,"Paseo de Hector Torrents 49, Ciudad, 05695",2025-07-21 12:49:00,2025-07-25 12:49:00,2025-08-01 12:49:00
+264,19,enviado,"Camino de Chuy Capdevila 66 Piso 3 , Huelva, 39920",2025-10-09 15:35:14,2025-10-11 15:35:14,
+265,116,enviado,"Acceso Encarnita Salamanca 127 Apt. 35 , Valladolid, 48742",2025-06-28 00:14:46,2025-07-03 00:14:46,2025-07-10 00:14:46
+266,45,procesando,"Urbanización Estela Coloma 60, Granada, 30495",2025-02-21 00:26:49,2025-02-23 00:26:49,
+267,114,entregado,"Glorieta de Manola Galán 98, Navarra, 32655",2026-03-28 20:37:10,,
+268,23,enviado,"Camino de Vicenta Zurita 5, Almería, 19613",2025-03-04 13:03:08,,
+269,82,entregado,"Pasaje Fátima Aguirre 7 Puerta 4 , Badajoz, 02250",2026-01-27 18:05:45,2026-01-28 18:05:45,
+270,89,enviado,"C. Apolonia Cabezas 97 Apt. 23 , Navarra, 47692",2025-01-25 04:12:39,2025-01-29 04:12:39,2025-02-07 04:12:39
+271,17,cancelado,"Pasadizo Marcos Múgica 36, Huelva, 45847",2025-12-23 13:23:52,2025-12-28 13:23:52,2026-01-04 13:23:52
+272,141,enviado,"Urbanización de Angélica Llorens 5 Piso 0 , Ceuta, 10942",2026-01-17 01:33:38,2026-01-20 01:33:38,
+273,139,enviado,"Avenida Luna Piña 793 Apt. 92 , Granada, 40673",2024-08-23 20:56:50,,
+274,75,pendiente,"Glorieta Fortunata Chacón 383 Piso 8 , Las Palmas, 51465",2024-12-13 16:51:51,2024-12-16 16:51:51,2024-12-18 16:51:51
+275,77,cancelado,"Avenida de Cecilia Carrasco 35, Valladolid, 21885",2024-06-03 18:36:38,2024-06-04 18:36:38,2024-06-13 18:36:38
+276,41,cancelado,"Pasaje de Marcia Llanos 23 Apt. 20 , Pontevedra, 38161",2024-12-11 12:15:09,,
+277,45,entregado,"Plaza Plinio Bernad 92, Teruel, 43570",2025-11-07 18:59:34,2025-11-10 18:59:34,
+278,93,entregado,"Cuesta de Ainoa Cervantes 43, La Rioja, 51104",2024-07-02 11:38:59,2024-07-03 11:38:59,2024-07-13 11:38:59
+279,131,enviado,"Urbanización de Manuelita Franco 31 Piso 9 , Tarragona, 22292",2025-01-26 03:07:05,2025-01-31 03:07:05,2025-02-02 03:07:05
+280,58,procesando,"C. de Maura Arnaiz 765, Melilla, 08164",2026-04-19 19:13:20,2026-04-24 19:13:20,2026-05-01 19:13:20
+281,32,enviado,"Urbanización Aurelia Priego 9 Piso 8 , Cantabria, 20082",2025-04-10 16:55:22,2025-04-15 16:55:22,
+282,52,pendiente,"Cañada de Íñigo Delgado 14 Puerta 8 , Lleida, 43342",2025-09-23 14:38:23,,
+283,36,enviado,"Rambla Melania Cerdá 66, Albacete, 12722",2024-11-17 06:53:47,,
+284,61,pendiente,"Avenida de Josué Morante 21, Teruel, 30451",2025-12-03 13:50:01,2025-12-06 13:50:01,2025-12-09 13:50:01
+285,127,enviado,"Pasadizo de Emma Cuesta 78, Vizcaya, 12199",2025-05-09 05:07:09,2025-05-11 05:07:09,
+286,7,entregado,"Vial Gastón Aznar 54, Girona, 42055",2024-10-15 07:26:15,2024-10-19 07:26:15,2024-10-23 07:26:15
+287,93,enviado,"Glorieta Abraham Isern 8, Madrid, 36618",2024-10-06 01:15:18,2024-10-09 01:15:18,2024-10-16 01:15:18
+288,142,entregado,"Glorieta Dionisia Tamarit 86 Apt. 99 , Ciudad, 36870",2026-02-04 04:34:22,2026-02-05 04:34:22,2026-02-12 04:34:22
+289,147,procesando,"Rambla Eusebio Ballesteros 30, Sevilla, 38885",2025-06-24 10:15:16,,
+290,95,procesando,"Calle César Riera 52 Puerta 9 , Lleida, 50108",2024-11-28 16:42:52,,
+291,120,cancelado,"Cañada Mohamed Pedrosa 71, Girona, 31855",2026-04-26 19:15:40,2026-04-29 19:15:40,
+292,142,enviado,"Alameda de Belen Riba 133, Ourense, 48823",2025-07-12 15:12:34,2025-07-17 15:12:34,2025-07-24 15:12:34
+293,34,cancelado,"Ronda de Emelina Moliner 68 Apt. 99 , Melilla, 48787",2025-10-24 20:00:29,,
+294,23,enviado,"Urbanización Leandra Manrique 20 Apt. 71 , Zaragoza, 41324",2024-11-29 01:49:32,2024-12-02 01:49:32,2024-12-10 01:49:32
+295,17,procesando,"Alameda Pancho Garay 4 Puerta 4 , Zamora, 05445",2024-08-16 17:23:16,,
+296,80,pendiente,"Plaza de Danilo Mínguez 16 Apt. 35 , Soria, 32398",2024-07-25 22:33:55,2024-07-26 22:33:55,2024-08-03 22:33:55
+297,102,cancelado,"Cuesta Fabricio Serna 757, Melilla, 20617",2025-08-23 07:29:10,2025-08-26 07:29:10,2025-09-05 07:29:10
+298,123,cancelado,"Camino Isidora Mármol 31, Albacete, 23226",2025-11-28 13:38:35,,
+299,135,procesando,"Rambla de Dulce Caro 15, La Rioja, 06688",2025-07-31 21:44:52,2025-08-05 21:44:52,2025-08-12 21:44:52
+300,106,procesando,"Pasaje de Paula Mate 58, Baleares, 25524",2024-11-03 22:58:31,2024-11-05 22:58:31,2024-11-14 22:58:31
