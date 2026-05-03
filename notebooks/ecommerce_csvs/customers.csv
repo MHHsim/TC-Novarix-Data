@@ -1,0 +1,151 @@
+customer_id,name,email,country,city,acquisition_channel,registered_at
+1,Calixta Falcó Martin,pascuala21@example.org,Antigua y Barbuda,Barcelona,referido,2025-12-08 09:06:33
+2,Ambrosio Barrera,monicamelendez@example.net,Islandia,Granada,redes_sociales,2024-07-19 11:45:07
+3,Amparo Ayllón Tapia,valentin17@example.net,Croacia,Segovia,organico,2026-04-14 22:08:52
+4,Ágata Criado,juana64@example.net,San Vicente y las Granadinas,Barcelona,organico,2025-06-03 21:56:42
+5,José Manuel Bernat Estevez,frio@example.net,Montenegro,Segovia,redes_sociales,2024-03-08 19:51:50
+6,Manuel Bayo Gutierrez,rosalesmacaria@example.com,Togo,Málaga,busqueda_pagada,2023-11-09 08:55:44
+7,Azeneth Hoz Ariño,amancio13@example.net,Kenya,Albacete,referido,2023-11-29 16:59:47
+8,Anita Hortensia Yáñez Molina,leoncorona@example.org,Bolivia,Granada,redes_sociales,2023-08-25 21:32:04
+9,Cristian Miralles-Gómez,adoracionvillena@example.net,Mauricio,Castellón,organico,2025-04-04 02:02:50
+10,Hector Castro-Marín,llobo@example.net,Bulgaria,Vizcaya,organico,2024-01-26 01:46:12
+11,Estela Belmonte Agustí,ftellez@example.com,Finlandia,Cantabria,referido,2025-03-24 07:37:20
+12,María Ángeles Cabo Beltrán,sebastian55@example.net,Mauricio,Barcelona,email,2023-09-16 05:45:01
+13,Clotilde del Cazorla,cuevasnarciso@example.com,República Unida de Tanzanía,Asturias,redes_sociales,2026-03-27 04:50:23
+14,Vera Bayona Hidalgo,qmaldonado@example.com,Lituania,Zamora,directo,2024-09-10 07:46:12
+15,Elodia Cruz Ríos,sanzchus@example.com,Perú,Málaga,redes_sociales,2026-03-05 07:32:47
+16,Ofelia del Ángel,moises16@example.net,Benin,Sevilla,email,2024-10-23 13:37:41
+17,Nazario Marí Calleja,sevillaseveriano@example.org,Liechtenstein,Vizcaya,referido,2023-08-11 17:46:43
+18,Eligio Carlos Campo,aurapardo@example.net,Indonesia,Pontevedra,referido,2025-09-03 06:03:15
+19,Calixta del Luján,wsalamanca@example.org,Yemen,Burgos,organico,2025-08-22 02:17:16
+20,Clementina Paca Novoa Frutos,juanitocastro@example.com,Israel,Cádiz,email,2024-07-26 22:09:53
+21,José Antonio Torres-Iglesias,htormo@example.org,Estados Unidos de América,Toledo,referido,2024-08-10 19:52:11
+22,Arturo Roda Lloret,leirecuadrado@example.com,Islas Salomón,Alicante,busqueda_pagada,2024-01-02 12:53:44
+23,Abel Múgica Castrillo,rayaciro@example.org,Croacia,Huesca,redes_sociales,2026-04-24 14:44:25
+24,Cecilio Sala-Roma,serranodesiderio@example.net,Belice,León,organico,2026-01-17 11:51:16
+25,Adelia de Benet,andreamanzanares@example.net,Palau,Valladolid,directo,2024-01-28 07:15:27
+26,Leandro Araujo Peiró,severo77@example.org,Sierra Leona,Ceuta,email,2024-11-14 10:04:47
+27,Mamen Colomer-Ropero,ycoca@example.org,Burundi,Granada,organico,2025-07-01 04:27:48
+28,Alfonso Mendez Pastor,rosariobanos@example.com,Polonia,Cantabria,referido,2024-04-15 05:00:28
+29,Vinicio Pallarès Gallo,ynieto@example.net,Palau,Soria,referido,2023-11-07 09:23:40
+30,Nazario de Otero,otilia04@example.net,Egipto,Lleida,directo,2024-03-10 01:45:56
+31,Verónica del Cortes,pilar99@example.net,Japón,Vizcaya,directo,2023-12-04 14:22:46
+32,Toni de Elorza,ccomas@example.net,Japón,Málaga,directo,2024-05-04 14:50:20
+33,Aitana Escobar Márquez,vochoa@example.net,Uzbekistán,Cáceres,directo,2025-06-08 07:08:50
+34,Rosario Hurtado Lasa,usarabia@example.org,Sri Lanka,Zaragoza,directo,2023-06-12 16:36:50
+35,Rufino Campoy Piñeiro,conchapinol@example.org,Chipre,Córdoba,busqueda_pagada,2024-11-13 11:52:19
+36,Timoteo Sosa Girón,uarranz@example.net,Fiji,Segovia,redes_sociales,2025-09-09 12:05:26
+37,Sebastian Seguí,ypiquer@example.net,Brunei Darussalam,Huesca,email,2025-10-07 20:43:21
+38,Encarnación Goñi Gisbert,ana-sofiaarco@example.org,Chipre,Teruel,organico,2024-11-25 22:40:46
+39,Narciso Ferrando Pujadas,ruth17@example.org,Gambia,Girona,directo,2025-04-27 22:49:37
+40,Eligia Baños Lorenzo,ualcantara@example.org,El Salvador,Valladolid,redes_sociales,2025-09-05 19:33:46
+41,Miguela Vergara Pulido,ecortes@example.com,Cuba,Cuenca,referido,2023-11-20 10:53:47
+42,Eusebia de Carlos,nilo96@example.net,Samoa,Málaga,redes_sociales,2025-12-08 11:45:46
+43,Chuy Lara-Arenas,moyareyes@example.net,Comoras,Las Palmas,directo,2023-09-13 19:01:14
+44,Marc Rovira Ojeda,omoliner@example.net,Sudán,Ceuta,organico,2023-08-12 23:56:29
+45,Isa Vidal Carlos,naraujo@example.org,Belice,Huelva,directo,2024-08-25 07:52:05
+46,Ximena Falcón Iñiguez,evangelinamadrigal@example.org,Dinamarca,La Rioja,redes_sociales,2025-01-10 09:09:15
+47,Paulino Rubio Abellán,rouraclimaco@example.net,Serbia,La Coruña,referido,2025-05-15 10:36:11
+48,Ángela Figueras,salcedoflavio@example.net,Nueva Zelandia,Ciudad,redes_sociales,2025-07-27 12:01:44
+49,Irene Becerra Murillo,vera00@example.com,Mozambique,Ávila,directo,2025-01-30 00:13:35
+50,Estefanía Narcisa Casanovas Mas,marcosplinio@example.com,República de Moldova,Ceuta,email,2025-01-27 21:27:45
+51,Esmeralda Real,pcoello@example.net,República Federal Democrática de Nepal,Guadalajara,redes_sociales,2025-10-11 22:31:08
+52,Graciana Marqués Castejón,kescolano@example.org,Micronesia,Teruel,email,2023-08-25 10:18:01
+53,Humberto Pinilla,pineiroestefania@example.net,Tayikistán,Zamora,directo,2023-11-13 13:11:43
+54,Mario Mascaró Ramis,anastasiaclemente@example.org,República de Moldova,Barcelona,redes_sociales,2024-09-06 08:19:21
+55,Serafina de Mateu,dizquierdo@example.com,Somalia,Girona,referido,2026-01-24 16:47:34
+56,Cruz Ildefonso Montserrat Sola,solavalentina@example.com,Sierra Leona,Tarragona,busqueda_pagada,2023-08-26 01:44:48
+57,Isaura García Vicente,candelariosala@example.com,Senegal,Valladolid,busqueda_pagada,2025-03-31 20:56:22
+58,Rosalina Doménech Blazquez,feliciana64@example.com,Irlanda,León,email,2025-04-25 12:11:41
+59,José Ángel Natanael Naranjo Bueno,heliodoro67@example.org,Serbia,Ávila,directo,2026-03-24 08:58:31
+60,Nicodemo del Gomila,ricopalomar@example.net,Irán,Córdoba,email,2025-07-14 13:15:13
+61,Candelario Amat,juana40@example.net,Colombia,Burgos,directo,2024-10-19 01:06:59
+62,Donato Talavera Beltran,allobet@example.net,Mauritania,Baleares,directo,2023-11-18 05:20:07
+63,Herminia Ferreras Plana,valdespepita@example.com,Belarús,Ciudad,busqueda_pagada,2025-09-05 06:45:23
+64,Gloria Hervás Coloma,elviraortuno@example.org,Namibia,Baleares,referido,2026-01-20 17:55:15
+65,Victoriano Campillo Rodríguez,estelaiglesia@example.net,México,Ciudad,referido,2025-10-31 22:55:28
+66,Chus del Ayllón,eusebiacaballero@example.net,Seychelles,Santa Cruz de Tenerife,redes_sociales,2024-02-09 12:45:06
+67,Diana de Sastre,mendizabalmodesta@example.com,Hungría,Asturias,email,2023-11-19 07:22:18
+68,Salvador Sobrino Molins,patinolupita@example.org,Guatemala,Madrid,referido,2025-03-04 21:51:11
+69,María José Vargas Roldan,marqueznacho@example.net,Rumania,Santa Cruz de Tenerife,organico,2025-06-22 00:47:42
+70,Itziar de Taboada,mechevarria@example.org,Bahrein,Teruel,redes_sociales,2023-07-27 22:36:54
+71,Dora Huertas Lluch,bernarda84@example.org,Jordania,Girona,redes_sociales,2023-11-11 17:44:11
+72,Julieta Haro,xiomara74@example.net,Pakistán,Álava,busqueda_pagada,2025-07-15 16:55:19
+73,Isidro Berenguer-Macias,nilda17@example.org,Bélgica,Ciudad,email,2023-12-26 13:30:16
+74,Elías del Montenegro,mariselagonzalez@example.net,Indonesia,Cádiz,referido,2024-08-17 07:15:33
+75,Anita de Contreras,fpaz@example.com,Mozambique,Melilla,referido,2024-01-13 15:32:07
+76,Gregorio de Gargallo,lamasbrunilda@example.org,Mónaco,Asturias,directo,2024-01-09 11:14:25
+77,Hipólito Ramón Muro,rpedrosa@example.net,Armenia,Jaén,redes_sociales,2024-09-15 02:20:20
+78,Josefa del Barrios,daniela65@example.org,Bahrein,Alicante,email,2024-04-17 02:48:57
+79,Sigfrido Rivera,adrianaamaya@example.net,Kiribati,Huesca,email,2024-10-21 09:20:59
+80,Yolanda Aller Pintor,yolanda93@example.net,Guinea Ecuatorial,Valencia,email,2025-07-16 22:35:10
+81,Adelaida Ortiz Martín,simovirginia@example.net,Belice,Huelva,directo,2024-07-17 02:45:46
+82,Tamara Rius Giménez,florencia61@example.org,Sri Lanka,Huelva,busqueda_pagada,2023-09-02 08:47:05
+83,Constanza Llamas Ruano,arcosmarco@example.com,Bosnia y Herzegovina,Toledo,referido,2024-05-26 03:55:03
+84,Albina Porcel Navarrete,cabanillasjoel@example.net,Santo Tomé y Príncipe,Vizcaya,email,2024-03-02 19:20:25
+85,Paloma Dalmau Solsona,romansantiago@example.com,Rwanda,Barcelona,directo,2026-01-13 09:19:07
+86,María Amores Prada,acortes@example.net,Pakistán,Huelva,busqueda_pagada,2025-09-04 13:31:51
+87,Marcela Amores-Blanes,tovarencarnacion@example.com,Líbano,Segovia,directo,2024-07-02 04:57:02
+88,Bernarda Serrano Espada,anacleto53@example.com,Mozambique,Vizcaya,organico,2023-11-13 07:21:40
+89,Eladio Pinilla Morán,xguzman@example.org,República Federal Democrática de Nepal,Tarragona,redes_sociales,2025-12-28 19:11:49
+90,Javi Morillo,candelas50@example.com,República Checa,Santa Cruz de Tenerife,referido,2024-08-15 06:47:38
+91,Pía Pinilla Lobo,goyo17@example.org,Vietman,Zaragoza,directo,2025-12-12 08:13:15
+92,Dolores Bilbao Sosa,felisaalmazan@example.org,Australia,Asturias,directo,2025-08-08 14:10:37
+93,Reinaldo Azorin Olmo,jose-francisco29@example.org,Mónaco,Alicante,referido,2023-09-24 23:56:16
+94,Moreno de Arjona,galandelia@example.org,República Democrática Popular Lao,Cantabria,redes_sociales,2025-06-21 13:57:33
+95,Duilio Flores Almagro,nandocoloma@example.net,Sudáfrica,Zamora,organico,2026-01-22 14:25:04
+96,Calista Dafne Cases Sáenz,lluchrosa-maria@example.org,Ecuador,Alicante,busqueda_pagada,2024-01-19 19:52:35
+97,Lope Gibert Sola,calixtaiglesia@example.org,Irlanda,Granada,directo,2025-11-07 04:53:32
+98,Rodolfo Peinado-Diez,amigoeleuterio@example.org,Samoa,Murcia,redes_sociales,2025-10-20 20:44:42
+99,María Dolores Piedad Carbó Céspedes,montserrat39@example.com,Nauru,Córdoba,busqueda_pagada,2023-12-28 09:27:12
+100,Baltasar Luis Miguel Amigó Mesa,davilajuan-manuel@example.org,Países Bajos,Valladolid,busqueda_pagada,2024-01-23 19:29:46
+101,Nicolasa Perez-Puente,manuelarobledo@example.net,Colombia,Girona,busqueda_pagada,2026-02-19 04:00:57
+102,Anselmo Herrero,bartolomealba@example.com,Bangladesh,Vizcaya,organico,2025-12-27 22:56:45
+103,Pablo Mata Carrillo,armida91@example.com,Mónaco,Segovia,organico,2025-11-27 21:53:17
+104,Ricarda Armengol-Olivera,encarnacionaroca@example.net,Brunei Darussalam,Cuenca,busqueda_pagada,2024-10-08 08:02:41
+105,Inés del Bayón,alvaro00@example.com,Italia,Zaragoza,email,2025-09-24 09:52:40
+106,Miriam Nogueira,rroldan@example.org,Tuvalu,Las Palmas,referido,2023-07-05 20:30:33
+107,Teobaldo Rivera Trillo,esalcedo@example.org,Bhután,Valencia,organico,2023-06-15 22:30:53
+108,Inocencio Paredes Segura,ema21@example.org,Pakistán,Jaén,email,2023-09-06 00:52:55
+109,Isaac Echeverría Vélez,etelvina98@example.net,Sri Lanka,Cádiz,email,2023-07-12 11:36:47
+110,Mario Tomás-Sola,rico98@example.com,Cuba,Tarragona,directo,2026-01-23 07:48:10
+111,Sara Ledesma Mora,mvega@example.com,Australia,Huesca,referido,2025-10-14 20:15:52
+112,Severo de Lorenzo,carboreyna@example.net,Francia,Zaragoza,busqueda_pagada,2024-06-16 23:45:42
+113,Daniela Sobrino Pinilla,titosanmiguel@example.org,Turquía,Toledo,directo,2026-02-07 08:33:34
+114,Albina Urrutia Morcillo,dnicolau@example.com,Mauritania,Ávila,directo,2024-03-25 08:10:49
+115,Jose Francisco Garay Pacheco,ubustamante@example.com,Mauritania,Pontevedra,email,2025-10-07 15:29:43
+116,Francisco Losa-Llorente,graciela45@example.org,Perú,Murcia,email,2025-02-08 00:09:19
+117,Adelina de Boada,fbautista@example.org,Paraguay,Guadalajara,email,2025-12-18 01:25:36
+118,Plácido del Torres,rosalesclemente@example.net,Santa Lucía,Ávila,busqueda_pagada,2026-01-19 11:59:34
+119,Purificación de Tamayo,octavia28@example.org,Congo,Sevilla,busqueda_pagada,2023-06-18 21:48:52
+120,Jacinta Alemany Buendía,herminia16@example.com,Kirguistán,Granada,directo,2025-06-14 12:52:44
+121,Dan Hermenegildo Hervia Medina,saznar@example.net,Kuwait,Pontevedra,directo,2026-01-01 03:02:36
+122,Flor Sáenz-Núñez,pastor19@example.net,Guinea Bissau,Cáceres,organico,2025-08-27 09:16:38
+123,Petrona Muro Ortiz,fabiantoledo@example.org,Liberia,Huelva,organico,2024-07-25 20:24:59
+124,Elba Medina Iglesias,ordonezramona@example.net,Madagascar,Alicante,email,2026-01-24 00:42:45
+125,Benito de Moles,dario49@example.org,Israel,Salamanca,busqueda_pagada,2024-08-14 03:33:33
+126,Ramiro Esteve Feliu,mamo@example.net,Tailandia,Cuenca,busqueda_pagada,2025-05-22 02:09:44
+127,Rafael Tomé,ambrosio24@example.net,Saint Kitts y Nevis,Asturias,directo,2024-05-17 06:23:04
+128,Porfirio Zamorano-Luna,africa55@example.org,Bahamas,Huesca,referido,2026-03-31 22:59:02
+129,Sigfrido Ferrera Marti,ruthclemente@example.net,Seychelles,Albacete,email,2025-01-22 16:54:04
+130,Geraldo de Mate,jbanos@example.net,Sri Lanka,Pontevedra,organico,2024-08-06 21:48:46
+131,Paulino Castañeda Lledó,bravomargarita@example.net,Islas Salomón,Alicante,referido,2025-04-06 10:01:31
+132,Amando Manzano Cases,renatorivas@example.com,Barbados,Asturias,busqueda_pagada,2023-08-24 05:18:21
+133,Aroa Alberola Luís,fausto54@example.net,Islas Marshall,Vizcaya,organico,2026-04-06 14:02:57
+134,Julia Saez Niño,maxi99@example.org,Botswana,Huesca,email,2023-08-03 22:23:39
+135,Amancio Iriarte Tejedor,cortesfausto@example.net,República de Corea,Ourense,busqueda_pagada,2024-01-03 10:20:26
+136,Segismundo Bas Pérez,bilbaolalo@example.com,Tailandia,Pontevedra,email,2025-03-15 18:21:19
+137,Angelina Baeza Cordero,mtorralba@example.com,Líbano,Soria,directo,2025-02-06 12:10:34
+138,Santiago Mateu Blázquez,nllano@example.net,Guinea Bissau,Huesca,referido,2025-05-24 02:51:54
+139,Benigno del Gonzalez,ochoatito@example.org,Gabón,León,referido,2025-04-23 08:19:59
+140,Fortunata Sanjuan,irene97@example.net,Uruguay,Ourense,referido,2024-03-14 19:12:13
+141,Emma Romeu Mayoral,artemio36@example.net,Sudán del Sur,Melilla,redes_sociales,2024-10-12 07:58:21
+142,María Teresa Barrena-Cabezas,aguilerahernando@example.com,Samoa,La Coruña,email,2025-11-30 06:36:30
+143,Matías Galván,maria-fernandacervantes@example.com,Colombia,Segovia,referido,2023-12-12 01:01:53
+144,Natalio Bertrán-Crespo,nacio10@example.com,Islas Salomón,Ciudad,directo,2024-08-30 10:35:40
+145,Chema de Crespi,iechevarria@example.com,Benin,Albacete,referido,2024-09-09 21:39:08
+146,Hernando Sanjuan Soriano,angelitapablo@example.org,República Popular Democrática de Corea,Madrid,email,2024-10-20 09:01:19
+147,Alcides David Maldonado Luna,barnal@example.org,Suecia,Navarra,referido,2025-01-11 05:54:25
+148,Andrea Guillen Lamas,ubermejo@example.net,China,Córdoba,email,2023-11-21 23:59:23
+149,Nadia Figuerola-Rodríguez,tquiroga@example.net,Japón,Teruel,busqueda_pagada,2024-11-28 11:24:51
+150,Lalo Gomila Company,hmancebo@example.com,Indonesia,Castellón,directo,2025-07-10 20:31:31
