@@ -2,6 +2,7 @@ certifi==2026.4.22
 cffi==2.0.0
 charset-normalizer==3.4.7
 cryptography==47.0.0
+Faker==40.15.0
 google-api-core==2.30.3
 google-auth==2.49.2
 google-cloud-bigquery==3.41.0
