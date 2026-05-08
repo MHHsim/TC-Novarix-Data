@@ -60,6 +60,17 @@ A continuación se detalla el diseño relacional (3NF) implementado para la infr
 
 ![Diagrama Entidad-Relación](docs/er_diagram.png)
 
+### Decisiones de diseño (Data Modeler)
+
+| Decisión | Justificación |
+|---|---|
+| unit_price en order_items | El precio al comprar puede cambiar; es un dato del evento, no del producto |
+| product_name solo en products | En order_items dependería solo de product_id, violando 2NF |
+| country directo en customers | Sin más atributos de país no hay dependencia transitiva |
+| customer_name no está en orders | Evita la cadena transitiva order_id → customer_id → customer_name |
+| reviews apunta a order_items | Se valora un producto específico comprado, no el pedido completo |
+| PK surrogate en order_items | Evita ambigüedad con claves compuestas |
+
 ## Seguridad y Configuración
 
 * Variables de entorno: Se utiliza un archivo `.env` para gestionar el `PROJECT_ID` y el `DATASET_ID`sin exponerlos en el código.
